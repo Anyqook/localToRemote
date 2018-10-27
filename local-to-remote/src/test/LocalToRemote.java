@@ -7,5 +7,6 @@ public class LocalToRemote {
 		// 푸쉬 되돌리기
 		// 회원가입 기능
 		// 로그인기능 개발
+		// 로그아웃 기능 개발
 	}
 }
